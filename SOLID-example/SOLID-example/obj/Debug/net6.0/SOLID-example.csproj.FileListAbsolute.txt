@@ -1,0 +1,15 @@
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\SOLID-example.csproj.AssemblyReference.cache
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\SOLID-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\SOLID-example.AssemblyInfoInputs.cache
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\SOLID-example.AssemblyInfo.cs
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\SOLID-example.csproj.CoreCompileInputs.cache
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\bin\Debug\net6.0\SOLID-example.exe
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\bin\Debug\net6.0\SOLID-example.deps.json
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\bin\Debug\net6.0\SOLID-example.runtimeconfig.json
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\bin\Debug\net6.0\SOLID-example.dll
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\bin\Debug\net6.0\SOLID-example.pdb
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\SOLID-example.dll
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\refint\SOLID-example.dll
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\SOLID-example.pdb
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\SOLID-example.genruntimeconfig.cache
+C:\Users\PorfirI\Desktop\SOLID-priciples-simple-app\SOLID-example\SOLID-example\obj\Debug\net6.0\ref\SOLID-example.dll
